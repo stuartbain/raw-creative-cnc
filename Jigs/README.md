@@ -1,0 +1,3 @@
+## Jigs
+
+I made my own 3D printed jigs because the RawCNC store was not selling its own jigs or any parts at the time I was building my CNC. I used PETG with 5 wall loops and 30% sparse infill and fill multiline of 2 for rigidity. The jigs are modelled using the exact rail and profile dimensions and use the default compensations from the slicer software. This resulted in a good, wiggle free fit without requiring force.
