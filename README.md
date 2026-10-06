@@ -42,3 +42,12 @@ I used a 24V to 12V step down voltage regulator to power the 2 x [12V 80mm Noctu
 
  - This is overkill for powering 2 x 60mA fans but it is smaller than a separate 12V power supply and runs cool and efficiently.
 
+## Mechanical
+
+### Spindle Mount
+
+1 x [CNC Spindle Motor fixture 65mm](https://s.click.aliexpress.com/e/_c4kX31ed)
+
+- The Raw Creative laser cut Z-Axis Spindle plate has pre-cut holes to suit mounts for various spindle diameters. For my 65mm diameter spindle, this mount matches the holes that are 80mm apart (centre to centre) on the X and 34mm apart (centre to centre) on the Y.
+
+![Drawing](https://ae-pic-a1.aliexpress-media.com/kf/He31e69ddc3ec4413840fa83c82caf8575.png)
