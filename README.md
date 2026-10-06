@@ -50,4 +50,4 @@ I used a 24V to 12V step down voltage regulator to power the 2 x [12V 80mm Noctu
 
 - The Raw Creative laser cut Z-Axis Spindle plate has pre-cut holes to suit mounts for various spindle diameters. For my 65mm diameter spindle, this mount matches the holes that are 80mm apart (centre to centre) on the X and 34mm apart (centre to centre) on the Y.
 
-![Drawing](https://ae-pic-a1.aliexpress-media.com/kf/He31e69ddc3ec4413840fa83c82caf8575.png)
+![Drawing](Images/Spindle-Mount-65mm.avif)
